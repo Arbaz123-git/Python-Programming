@@ -1,0 +1,8 @@
+emp_id|name|salary
+101|shantanu|30000
+102|vijay|40000
+103|karan|20000
+104|Rohan|50000emp_id|name|salary
+101|shantanu|30000
+102|vijay|42000.0103|karan|20000
+104|Rohan|52000.0
